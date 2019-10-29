@@ -1,0 +1,5 @@
+#!/bin/bash
+echo i am trying this
+read which one
+this_one=$newname
+echo $this_onw
